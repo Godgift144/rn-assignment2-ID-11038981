@@ -1,15 +1,22 @@
-> Why do I have a folder named ".expo" in my project?
+# RN Assignment 2 - ID-1129884
 
-The ".expo" folder is created when an Expo project is started using "expo start" command.
+This is a React Native project created using Expo for Assignment 2. The task involved modifying the `App.js` file to change the background color of the `View` component, display a personalized message, and style the text.
 
-> What do the files contain?
+## Description of the Task
+- Change the background color of the `View` component.
+- Edit the `Text` component to display "My name is YourName" with "YourName" in bold.
+- Increase the font size of the text to 24.
 
-- "devices.json": contains information about devices that have recently opened this project. This is used to populate the "Development sessions" list in your development builds.
-- "packager-info.json": contains port numbers and process PIDs that are used to serve the application to the mobile device/simulator.
-- "settings.json": contains the server configuration that is used to serve the application manifest.
+## Screenshot
+![Screenshot of the application](./screenshot.png)
 
-> Should I commit the ".expo" folder?
+## Student ID
+**ID-1129884**
 
-No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
+## Installation and Running
+To install and run the project locally:
 
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/rn-assignment2-ID.git
+   cd rn-assignment2-ID
