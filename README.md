@@ -1,4 +1,4 @@
-# RN Assignment 2 - ID-1129884
+# RN Assignment 2 - ID-11038981
 
 This is a React Native project created using Expo for Assignment 2. The task involved modifying the `App.js` file to change the background color of the `View` component, display a personalized message, and style the text.
 
